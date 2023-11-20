@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>APIarchitecturePractice</name>
+    </assembly>
+    <members>
+        <member name="M:APIarchitecturePractice.Controllers.CustomerController.DeleteCustomer(System.Int32)">
+            <summary>
+            Used to delete customer
+            </summary>
+            <param name="_customerID">ANCHAL</param>
+            <returns></returns>
+        </member>
+        <member name="M:APIarchitecturePractice.Controllers.CustomerController.GetAppSettings">
+            <summary>
+            Used to get AppSettings information.
+            </summary>
+        </member>
+        <member name="M:APIarchitecturePractice.Controllers.OrderController.GetAppSettings">
+            <summary>
+            Used to get AppSettings information.
+            </summary>
+        </member>
+        <member name="T:APIarchitecturePractice.Migrations.init">
+            <inheritdoc />
+        </member>
+        <member name="M:APIarchitecturePractice.Migrations.init.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:APIarchitecturePractice.Migrations.init.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:APIarchitecturePractice.Migrations.init.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
